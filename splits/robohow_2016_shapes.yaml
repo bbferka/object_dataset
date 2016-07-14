@@ -1,0 +1,21 @@
+classes:
+	- box
+	- round
+	- flat
+
+box:
+	- jod_salz
+	- vollmilch
+round:
+	- reine_butter_milch
+	- red_spotted_bowl
+	- red_spotted_cup
+flat: 
+	- knife_blue_plastic
+	- knife_red_plastic
+	- knife_ycb
+	- fork_blue_plastic
+	- fork_red_plastic
+	- fork_ycb
+	- red_spotted_plate
+
