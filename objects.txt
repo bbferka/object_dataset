@@ -1,15 +1,15 @@
 albi_himbeer_juice
-big_spoon
 black_bowl
 blue_cup
-blue_dotted_plate
 blue_plastic_bowl
+blue_spotted_plate
 cappuccino
 coffee_el_bryg
 fork_blue_plastic
 fork_red_plastic
 fork_ycb
 frying_pan
+frying_spatula
 hela_curry_ketchup
 ja_milch
 jod_salz
@@ -19,6 +19,7 @@ knife_blue_plastic
 knife_red_plastic
 knife_ycb
 knusper_schoko_keks
+large_grey_spoon
 linux_cup
 lion_cereal
 marken_salz
@@ -40,7 +41,6 @@ red_spotted_plate
 reine_butter_milch
 slotted_spatula
 soja_milch
-spatula
 spitzen_reis
 toaster
 tomato_al_gusto_basilikum
