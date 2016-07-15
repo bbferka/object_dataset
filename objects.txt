@@ -23,7 +23,7 @@ large_grey_spoon
 linux_cup
 lion_cereal
 marken_salz
-meersalz
+meer_salz
 mondamin
 nesquik_cereal
 pancake_maker
