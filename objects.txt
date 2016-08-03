@@ -1,10 +1,12 @@
 albi_himbeer_juice
 black_bowl
+blue_camping_cup
 blue_cup
 blue_plastic_bowl
 blue_spotted_plate
 cappuccino
 coffee_el_bryg
+cup_eco_orange
 fork_blue_plastic
 fork_red_plastic
 fork_ycb
@@ -32,8 +34,8 @@ pfanner_pfirsch_icetea
 pitcher_white
 pitcher_yellow
 pot
-pringles_salt
 pringles_paprika
+pringles_salt
 pringles_vinegar
 red_spotted_bowl
 red_spotted_cup
@@ -45,6 +47,6 @@ spitzen_reis
 toaster
 tomato_al_gusto_basilikum
 tomato_sauce_oro_di_parma
-vollmilch
+voll_milch
 white_bowl
 yellow_plate
