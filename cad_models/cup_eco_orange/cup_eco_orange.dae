@@ -102,21 +102,21 @@
     </light>
   </library_lights>
   <library_images>
-    <image id="cup_eco_camping_png" name="cup_eco_camping_png">
-      <init_from>cup_eco_camping.png</init_from>
+    <image id="cup_eco_orange_png" name="cup_eco_orange_png">
+      <init_from>cup_eco_orange.png</init_from>
     </image>
   </library_images>
   <library_effects>
     <effect id="Texture-effect">
       <profile_COMMON>
-        <newparam sid="cup_eco_camping_png-surface">
+        <newparam sid="cup_eco_orange_png-surface">
           <surface type="2D">
-            <init_from>cup_eco_camping_png</init_from>
+            <init_from>cup_eco_orange_png</init_from>
           </surface>
         </newparam>
-        <newparam sid="cup_eco_camping_png-sampler">
+        <newparam sid="cup_eco_orange_png-sampler">
           <sampler2D>
-            <source>cup_eco_camping_png-surface</source>
+            <source>cup_eco_orange_png-surface</source>
           </sampler2D>
         </newparam>
         <technique sid="common">
@@ -128,7 +128,7 @@
               <color sid="ambient">0 0 0 1</color>
             </ambient>
             <diffuse>
-              <texture texture="cup_eco_camping_png-sampler" texcoord="Scan-mesh-map-channel1"/>
+              <texture texture="cup_eco_orange_png-sampler" texcoord="Scan-mesh-map-channel1"/>
             </diffuse>
             <specular>
               <color sid="specular">0.5 0.5 0.5 1</color>
