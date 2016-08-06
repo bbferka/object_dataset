@@ -42,6 +42,7 @@ classes:
   - red_spotted_cup
   - red_spotted_plate
   - reine_butter_milch
+  - sigg_bottle
   - slotted_spatula
   - soja_milch
   - spatula
@@ -50,5 +51,6 @@ classes:
   - tomato_al_gusto_basilikum
   - tomato_sauce_oro_di_parma
   - vollmilch
+  - white_bottle
   - white_bowl
   - yellow_plate
