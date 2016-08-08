@@ -1,7 +1,7 @@
 %YAML:1.0
 classes:
   - albi_himbeer_juice
-  - big_spoon
+  - large_grey_spoon
   - black_bowl
   - blue_camping_cup
   - blue_cup
@@ -26,7 +26,7 @@ classes:
   - linux_cup
   - lion_cereal
   - marken_salz
-  - meersalz
+  - meer_salz
   - mondamin
   - nesquik_cereal
   - pancake_maker
@@ -45,7 +45,7 @@ classes:
   - sigg_bottle
   - slotted_spatula
   - soja_milch
-  - spatula
+  - frying_spatula
   - spitzen_reis
   - toaster
   - tomato_al_gusto_basilikum
