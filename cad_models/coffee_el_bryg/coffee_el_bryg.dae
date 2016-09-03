@@ -122,7 +122,7 @@
         <technique sid="common">
           <phong>
             <emission>
-              <color sid="emission">0 0 0 1</color>
+              <color sid="emission">0.5 0.5 0.5 1</color>
             </emission>
             <ambient>
               <color sid="ambient">0 0 0 1</color>
@@ -131,7 +131,7 @@
               <texture texture="coffee_el_bryg_png-sampler" texcoord="Scan-mesh-map-channel1"/>
             </diffuse>
             <specular>
-              <color sid="specular">0.5 0.5 0.5 1</color>
+              <color sid="specular">0.9 0.9 0.9 1</color>
             </specular>
             <shininess>
               <float sid="shininess">50</float>
