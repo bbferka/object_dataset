@@ -1,7 +1,7 @@
 # Blender v2.77 (sub 0) OBJ File: ''
 # www.blender.org
 mtllib kelloggs_corn_flakes.mtl
-o cornflakes_small
+o kelloggs_corn_flakes
 v 0.074019 0.149866 0.006235
 v 0.080803 0.150077 0.001173
 v 0.070908 0.150457 -0.000335
