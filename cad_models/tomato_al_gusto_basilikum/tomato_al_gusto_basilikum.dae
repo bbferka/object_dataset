@@ -119,7 +119,7 @@
   </library_lights>
   <library_images>
     <image id="tomato_small_bmp" name="tomato_small_bmp">
-      <init_from>tomato_small.bmp</init_from>
+      <init_from>tomato_al_gusto_basilikum.bmp</init_from>
     </image>
   </library_images>
   <library_effects>
