@@ -12,7 +12,7 @@
   </asset>
   <library_images>
     <image id="ReineButterMilch_png" name="ReineButterMilch_png">
-      <init_from>ReineButterMilch.png</init_from>
+      <init_from>reine_butter_milch.png</init_from>
     </image>
   </library_images>
   <library_effects>
