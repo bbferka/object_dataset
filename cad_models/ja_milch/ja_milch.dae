@@ -103,7 +103,7 @@
   </library_lights>
   <library_images>
     <image id="ja_mlich_png" name="ja_mlich_png">
-      <init_from>ja_mlich.png</init_from>
+      <init_from>ja_milch.png</init_from>
     </image>
   </library_images>
   <library_effects>
